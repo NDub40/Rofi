@@ -1,0 +1,2 @@
+# Rofi
+ Rofi config
